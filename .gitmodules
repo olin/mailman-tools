@@ -1,0 +1,3 @@
+[submodule "mailman-downloader"]
+	path = mailman-downloader
+	url = git@github.com:wcdolphin/mailman-downloader.git
